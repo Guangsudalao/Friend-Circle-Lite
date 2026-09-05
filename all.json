@@ -1,0 +1,46 @@
+{
+  "statistical_data": {
+    "friends_num": 4,
+    "active_num": 3,
+    "error_num": 1,
+    "article_num": 5,
+    "last_updated_time": "2026-09-06 02:02:00"
+  },
+  "article_data": [
+    {
+      "title": "Linux下的手动双面打印工具：DupriMan",
+      "created": "2026-07-23 05:30",
+      "link": "https://www.ordchaos.com/posts/0250ea69/",
+      "author": "序炁的博客",
+      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+    },
+    {
+      "title": "评论迁移及样式更新",
+      "created": "2026-07-13 21:56",
+      "link": "https://www.ordchaos.com/posts/0f7569c5/",
+      "author": "序炁的博客",
+      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+    },
+    {
+      "title": "Arch Linux安装（LUKS+BtrFS+UKI+Nvidia驱动）",
+      "created": "2026-06-28 17:50",
+      "link": "https://www.ordchaos.com/posts/d5d12650/",
+      "author": "序炁的博客",
+      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+    },
+    {
+      "title": "结束了——高中毕业有感",
+      "created": "2026-06-25 23:22",
+      "link": "https://www.ordchaos.com/posts/6831682d/",
+      "author": "序炁的博客",
+      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+    },
+    {
+      "title": "有点紧急的（？）通知",
+      "created": "2026-03-23 06:10",
+      "link": "https://www.ordchaos.com/posts/093965f1/",
+      "author": "序炁的博客",
+      "avatar": "https://www.ordchaos.com/img/avatar.jpg"
+    }
+  ]
+}
